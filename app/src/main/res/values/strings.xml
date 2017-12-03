@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ClassSelectionApp</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="loginHint">Enter a UserName</string>
+    <string name="loginButtonText">Login</string>
+
+</resources>
